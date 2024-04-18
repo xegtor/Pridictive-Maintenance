@@ -1,2 +1,2 @@
-# Pridictive-Maintenance
-An statistical machine learning model made for pridicting failures in machines
+# Predictive-Maintenance
+A statistical machine learning model made for predicting different kind of failures in machines.
