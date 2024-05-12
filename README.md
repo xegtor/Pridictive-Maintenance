@@ -77,7 +77,10 @@ The results include data visualizations, model evaluation metrics, and insights 
 ![Correlation Heatmap for RNF](hm_rnf_2.png)
 
 #### Accuracy Graph
+- A bar graph compares the mean accuracy of different models for each failure type in both datasets.
+##### Dataset 1
 ![Mean Accuracy for Different Classifiers for Dataset 1](accuracy_1.png)
+##### Dataset 2
 ![Mean Accuracy for Different Classifiers for Dataset 2](accuracy_2.png)
 
 #### Accuracy Values
@@ -181,3 +184,6 @@ Overall, Bagging's ability to reduce overfitting, improve generalization, and ha
 ## Conclusion
 In conclusion, the code successfully addresses the problem of predictive maintenance by leveraging machine learning techniques. By preprocessing the data, creating models, and evaluating their performance, it provides insights into machine failure prediction. The inclusion of visualizations and accuracy metrics enhances the understanding of model behavior and performance.
 
+## Supporting Literature
+- [Predictive Maintenance: A Machine Learning Approach](https://www.ibm.com/topics/predictive-maintenance)
+- [Bagging: Bootstrap Aggregating](https://www.ibm.com/topics/bagging#:~:text=IBM-,What%20is%20bagging%3F,be%20chosen%20more%20than%20once.)
